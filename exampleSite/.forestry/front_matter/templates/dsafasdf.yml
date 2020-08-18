@@ -1,4 +1,9 @@
 ---
 label: dsafasdf
 hide_body: false
-fields: []
+fields:
+- name: asdfasdf
+  type: text
+  config:
+    required: false
+  label: asdfasdf
